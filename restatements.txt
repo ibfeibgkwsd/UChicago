@@ -1,0 +1,407 @@
+CompanyId,CompanyName,FilingDate,RestatementType1,RestatementType2,RestatementType3,SectorName,SectorId
+3545,"Alico Inc.","12/15/2008","OTH","","","Consumer Non-Cyclical",4
+5337,"American Israel Paper Mills Ltd.","6/23/2008","OTH","","","Basic Materials",1
+9263,"Michael Baker Corp.","6/30/2008","RR","","","Services",8
+10254,"Basic Earth Science Systems, Inc.","7/11/2008","OTH","OTH","","Energy",5
+10329,"Bassett Furniture Industries Inc.","2/7/2008","OTH","OTH","","Consumer Cyclical",3
+14195,"Briggs & Stratton Corp.","5/9/2008","ER","OTH","OTH","Capital Goods",2
+17313,"Capital Southwest Corp.","1/9/2008","OTH","","","Financial",6
+22551,"Tri Valley Corp.","2/12/2008","OTH","","","Energy",5
+23082,"Computer Sciences Corp.","1/11/2008","OTH","","","Technology",9
+23666,"Sara Lee Corp.","5/6/2008","OTH","","","Consumer Non-Cyclical",4
+25354,"CPI Corp","5/13/2008","OTH","","","Consumer Cyclical",3
+28630,"DRS Technologies, Inc.","5/30/2008","ER","","","Capital Goods",2
+28823,"Diebold Inc.","9/30/2008","RR","OTH","OTH","Technology",9
+28917,"Dillards Inc","4/2/2008","OTH","","","Services",8
+29806,"Constar International Inc.","3/31/2008","OTH"," ER","OTH","Basic Materials",1
+31347,"Echelon Corp.","5/16/2008","ER","","","Technology",9
+33113,"Environmental Tectonics Corp.","5/29/2008","OTH","OTH","","Technology",9
+36369,"FIRST HARTFORD CORP","8/29/2008","OTH","","","Services",8
+37008,"Winthrop Realty Trust","1/7/2008","OTH","","","Services",8
+37472,"Flexsteel Industries Inc.","9/15/2008","OTH"," ER","","Consumer Cyclical",3
+40730,"General Motors Corp.","2/28/2008","OTH","","","Consumer Cyclical",3
+42136,"Chang-On International, Inc.","5/20/2008","OTH","","","Basic Materials",1
+49534,"Life Partners Holdings Inc.","5/15/2008","OTH","","","Financial",6
+49534,"Life Partners Holdings Inc.","5/16/2008","OTH","OTH","","Financial",6
+54424,"X-Change","4/14/2008","OTH"," ER","OTH","Financial",6
+57055,"KV Pharmaceutical Co.","3/25/2008","ER"," RR","","Healthcare",7
+59478,"Eli Lilly & Co.","10/21/2008","OTH","","","Healthcare",7
+61004,"Lynch Corp","5/13/2008","OTH"," ER","","Basic Materials",1
+61500,"Fuda Faucet Works Inc.","6/12/2008","OTH","","","Capital Goods",2
+65100,"Merrill Lynch & Co. Inc.","2/25/2008","OTH","","","Financial",6
+65201,"Met-Pro Corporation","2/12/2008","RR","","","Capital Goods",2
+72170,"Millennium Biotechnologies Group, Inc.","5/20/2008","OTH","","","Technology",9
+72911,"Nortel Networks Corp.","5/2/2008","OTH","","","Technology",9
+75829,"Pall Corporation","3/28/2008","OTH","","","Technology",9
+77155,"The Penn Traffic Co.","4/18/2008","OTH","OTH","","Services",8
+80035,"Preformed Line Products Co.","1/4/2008","OTH","","","Capital Goods",2
+82628,"Symmetricom Inc.","6/17/2008","ER","","","Technology",9
+83402,"Resource America Inc.","5/19/2008","OTH","","","Financial",6
+85535,"Royal Gold Inc.","11/6/2008","RR","","","Basic Materials",1
+93456,"Standard Register Co.","3/11/2008","OTH","OTH","","Consumer Non-Cyclical",4
+93676,"STARRETT L S CO","9/11/2008","OTH","","","Capital Goods",2
+95029,"Sturm Ruger & Co. Inc.","7/24/2008","OTH","","","Consumer Cyclical",3
+95552,"Superior Industries International, Inc.","3/31/2008","OTH","OTH","","Consumer Cyclical",3
+97196,"AMERICAN INDEPENDENCE CORP","8/11/2008","OTH","","","Financial",6
+100716,"UNICO AMERICAN CORP","8/13/2008","RR","","","Financial",6
+106455,"Westmoreland Coal Co.","3/17/2008","ER","OTH","","Energy",5
+109757,"Commerce Group Corp.","7/15/2008","ER","OTH","","Basic Materials",1
+215219,"Voyager Learning Co","9/17/2008","ER","","","Services",8
+216748,"Oakridge Energy Inc.","6/13/2008","OTH","OTH","","Services",8
+275053,"Natures Sunshine Products Inc","10/7/2008","RR"," ER","OTH","Consumer Non-Cyclical",4
+277924,"Credo Petroleum Corp","9/15/2008","OTH","","","Energy",5
+311817,"HMG Courtland Properties, Inc.","3/14/2008","OTH","","","Services",8
+312257,"Innovative Food Holdings Inc.","7/31/2008","OTH","","","Consumer Non-Cyclical",4
+315852,"Range Resources Corp.","7/23/2009","OTH"," ER","","Energy",5
+316793,"International Rectifier Corp.","8/1/2008","RR","OTH","OTH","Technology",9
+354647,"CVB Financial Corp.","2/29/2008","ER"," RR","","Financial",6
+356080,"BELO CORP","8/10/2009","OTH","OTH","","Services",8
+356708,"First Regional Bancorp","3/17/2008","OTH","","","Financial",6
+357108,"Irvine Sensors Corp.","1/15/2008","ER","","","Capital Goods",2
+700815,"Adino Energy Corp.","5/15/2008","OTH"," ER","OTH","Energy",5
+700815,"Adino Energy Corp.","4/15/2008","OTH","","","Energy",5
+705868,"Benda Pharmaceutical Inc","6/26/2008","ER","","","Healthcare",7
+706864,"Merrimac Industries Inc","3/28/2008","OTH","OTH","","Technology",9
+707549,"Lam Research Corporation","3/31/2008","ER","","","Technology",9
+707674,"FACT Corp.","2/13/2008","OTH","OTH","","Consumer Non-Cyclical",4
+712537,"FIRST COMMONWEALTH FINANCIAL CORP","8/7/2009","OTH","","","Financial",6
+713002,"Flow International Corp.","7/14/2008","OTH"," ER","OTH","Capital Goods",2
+713676,"PNC Financial Services Group Inc.","2/4/2008","OTH","","","Financial",6
+716054,"Cypress Bioscience Inc.","3/17/2008","OTH","","","Healthcare",7
+718937,"Staar Surgical Co.","2/7/2008","OTH","","","Healthcare",7
+719164,"Schawk Inc.","8/18/2008","OTH","","","Services",8
+719164,"Schawk Inc.","4/28/2008","ER"," RR","OTH","Services",8
+719739,"SVB FINANCIAL GROUP","8/7/2009","OTH","","","Financial",6
+720671,"Halifax Corporation of Virginia","7/16/2008","OTH","OTH","","Technology",9
+721693,"China Recyling Energy Corp.","3/6/2008","OTH","","","Technology",9
+721693,"China Recyling Energy Corp.","4/15/2008","OTH","","","Technology",9
+722256,"Hudson Valley
+Holding Corp.","3/14/2008","OTH","","","Financial",6
+733269,"Acxiom Corp.","5/30/2008","RR","OTH","","Technology",9
+735993,"Bakbone Software Inc.","8/6/2008","ER"," RR","OTH","Technology",9
+737602,"Cuisine Solutions, Inc.","9/17/2008","OTH","","","Consumer Non-Cyclical",4
+743316,"Maxim Integrated Products Inc.","9/30/2008","ER","OTH","OTH","Technology",9
+745651,"Advanced Battery Technologies Inc.","3/28/2008","OTH","","","Consumer Cyclical",3
+745651,"Advanced Battery Technologies Inc.","9/2/2008","OTH","","","Consumer Cyclical",3
+748592,"NTN COMMUNICATIONS INC","8/11/2008","OTH","","","Services",8
+755003,"Material Sciences Corp.","5/29/2008","OTH","","","Basic Materials",1
+760326,"Outdoor Channel Holdings Inc.","2/1/2008","ER"," RR","OTH","Services",8
+766701,"CAPSTEAD MORTGAGE CORP","1/12/2009","OTH","","","Services",8
+769520,"Middleby Corp.","8/6/2008","OTH","","","Capital Goods",2
+771266,"Kopin Corp.","3/17/2008","ER","OTH","OTH","Technology",9
+773588,"Kings Road Entertainment Inc.","7/14/2008","OTH","OTH","","Services",8
+775351,"Quest Resource Corp.","1/17/2008","OTH","","","Energy",5
+788206,"EMPIRE ENERGY CORP","8/19/2008","OTH","","","Energy",5
+789606,"Aztec Oil & Gas Inc.","1/3/2008","RR"," ER","","Energy",5
+789868,"AMERICAN DAIRY INC","3/31/2009","RR"," ER","OTH","Consumer Non-Cyclical",4
+795255,"CNE Group Inc","6/26/2008","OTH","","","Services",8
+798288,"Centro NP LLC","4/18/2008","OTH","","","Services",8
+798528,"Odyssey Marine Exploration Inc.","8/11/2008","OTH","","","Services",8
+806592,"Sunwin Internationa Neutraceuticals, Inc.","9/15/2008","OTH","","","Healthcare",7
+808461,"General Communication Inc.","6/11/2008","ER"," RR","","Services",8
+811271,"Worldwater & Solar Technologies Corp.","3/5/2008","OTH"," ER","","Capital Goods",2
+811419,"Ameralia Inc.","6/6/2008","OTH","OTH"," ER","Basic Materials",1
+812482,"Archon Corp.","1/24/2008","OTH","","","Services",8
+814055,"Youbet com Inc.","7/31/2008","OTH"," ER","","Services",8
+814904,"Golden River Resources Corp.","10/15/2008","OTH","","","Services",8
+815353,"Emerald Dairy Inc","4/15/2008","OTH","","","Consumer Non-Cyclical",4
+816761,"Teradata Corporation","3/3/2008","RR","","","Technology",9
+820736,"Orbital Sciences Corporation","8/5/2008","OTH","","","Capital Goods",2
+821356,"Cistera Networks, Inc.","9/30/2008","OTH"," ER","OTH","Technology",9
+821483,"Delta Petroleum Corp.","8/7/2008","RR"," ER","","Energy",5
+821524,"China Digital Media Corp.","4/16/2008","ER","","","Services",8
+821995,"Columbia Laboratories, Inc.","3/28/2008","ER","OTH","","Healthcare",7
+827156,"Zila Inc.","10/6/2008","OTH","","","Healthcare",7
+828878,"Red Horse Entertainment Corp","8/26/2008","OTH","","","Services",8
+832101,"IDEX Corp.","2/29/2008","OTH","","","Capital Goods",2
+834071,"Toyota Motor Credit Corp.","7/30/2008","OTH","OTH","","Consumer Cyclical",3
+834071,"Toyota Motor Credit Corp.","7/21/2008","OTH","OTH","","Consumer Cyclical",3
+835011,"MGP Ingredients, Inc.","5/12/2008","RR","","","Consumer Non-Cyclical",4
+837852,"CHINA BROADBAND INC","8/19/2008","RR","OTH","","Technology",9
+840467,"Beckman Coulter Inc.","2/29/2008","OTH","","","Technology",9
+849667,"American Italian Pasta Co.","6/16/2008","RR","OTH","OTH","Consumer Non-Cyclical",4
+849997,"FEC Resources Inc.","2/21/2008","OTH","","","Energy",5
+851249,"Fortune Industries Inc","7/11/2008","OTH","OTH","OTH","Services",8
+852772,"Dennys Corp","5/5/2008","OTH","","","Services",8
+853273,"Borland Software Corp.","8/14/2008","ER","","","Technology",9
+855906,"Silicon Storage Technology Inc.","1/16/2008","ER","","","Technology",9
+857728,"I-Flow Corp","10/22/2008","OTH","","","Healthcare",7
+858452,"Transcend Services Inc.","5/19/2008","OTH","","","Healthcare",7
+858452,"Transcend Services, Inc.","4/15/2008","OTH","","","Healthcare",7
+859368,"Medicis Pharmaceutical Corp.","11/10/2008","OTH","","","Healthcare",7
+861058,"Ingen Technologies, Inc","9/29/2008","OTH","OTH","OTH","Healthcare",7
+863061,"Odyssey Pictures Corp.","6/12/2008","OTH","","","Services",8
+865754,"Sauer Danfoss Inc.","3/11/2008","OTH","","","Capital Goods",2
+866729,"Scholastic Corp.","7/30/2008","OTH","","","Services",8
+867773,"Sunpower Corp.","8/8/2008","ER","","","Technology",9
+868725,"Rentech Inc.","12/14/2009","OTH"," ER","","Basic Materials",1
+868857,"Aecom Technology Corp.","5/9/2008","OTH","","","Services",8
+876378,"Safestitch Medical Inc.","4/24/2008","OTH","OTH","","Healthcare",7
+877357,"Sepracor Inc.","2/29/2008","RR","","","Healthcare",7
+878088,"Par Pharmaceutical Companies, Inc.","2/29/2008","OTH","OTH","","Healthcare",7
+879519,"Franklin Lake Resources Inc.","4/14/2008","OTH"," ER","","Basic Materials",1
+880446,"Vitesse Semiconductor Corp","9/30/2008","OTH","","","Technology",9
+880460,"E Com Ventures Inc.","6/6/2008","ER","","","Services",8
+880804,"Premiere Global Services Inc.","10/14/2008","OTH","","","Services",8
+882537,"CREATOR CAPITAL LTD","8/15/2008","OTH","","","Technology",9
+884380,"SEAWAY VALLEY CAPITAL CORP","8/13/2008","OTH","","","Financial",6
+884892,"Terra Nova Financial Group Inc.","4/8/2008","ER","","","Financial",6
+886035,"General Cable Corporation","5/7/2008","OTH","","","Technology",9
+890465,"NPS Pharmaceuticals Inc.","5/19/2008","ER","","","Healthcare",7
+891103,"IAC Interactive","2/29/2008","RR","","","Services",8
+895930,"AMSURG CORP","8/10/2009","OTH","OTH","","Healthcare",7
+896264,"USANA Health Sciences Inc.","3/6/2009","OTH","","","Consumer Non-Cyclical",4
+896726,"Geoglobal Resources Inc.","6/9/2008","ER","","","Energy",5
+896747,"American Bio Medica Corp","3/28/2008","OTH","","","Technology",9
+897448,"Amarin Corp. Plc","9/24/2008","OTH","","","Healthcare",7
+898174,"REINSURANCE GROUP OF AMERICA","3/2/2009","OTH","","","Financial",6
+902272,"Aldila Inc.","3/28/2008","OTH","","","Consumer Cyclical",3
+907687,"Actel Corp.","1/22/2008","ER","","","Technology",9
+909326,"Asyst Technologies Inc.","2/1/2008","OTH","","","Technology",9
+910406,"Hain Celestial Group Inc.","1/31/2008","ER","OTH","","Consumer Non-Cyclical",4
+910569,"Canadian Zinc Corp.","4/11/2008","OTH","","","Basic Materials",1
+911441,"Environmental Service Professionals Inc.","5/21/2008","OTH","","","Services",8
+912242,"Macerich Co.","6/3/2008","OTH","OTH","OTH","Services",8
+912365,"Evergreen Energy Inc","3/24/2008","OTH","OTH","","Energy",5
+912500,"Crystallex International Corp.","4/1/2008","OTH","OTH","","Basic Materials",1
+912833,"West Marine Inc.","4/4/2008","OTH","OTH","OTH","Services",8
+913665,"TerreStar Corporation","3/31/2008","OTH"," ER","","Services",8
+915840,"Beazer Homes USA Inc.","5/12/2008","OTH"," ER"," RR","Capital Goods",2
+916085,"Health Net Inc.","2/28/2008","OTH","","","Financial",6
+916085,"Health Net Inc.","2/27/2009","OTH","","","Financial",6
+916235,"Sonic Solutions","2/26/2008","ER","OTH","","Technology",9
+916444,"Paradigm Medical Industries, Inc.","5/19/2008","OTH","","","Healthcare",7
+919583,"Strasbaugh","7/30/2008","OTH"," ER","","Technology",9
+920321,"Cenveo  Inc","3/28/2008","OTH","OTH","OTH","Services",8
+920527,"PSS World Medical Inc.","8/6/2008","OTH","","","Healthcare",7
+923168,"IWI Holding Ltd.","1/9/2008","OTH","","","Consumer Cyclical",3
+924805,"BMB Munai Inc.","6/16/2008","OTH","","","Energy",5
+924805,"BMB Munai Inc.","1/10/2008","OTH","","","Energy",5
+928366,"Sims Metal Management Limited","12/10/2008","OTH","","","Services",8
+928375,"Dutch Gold Resources Inc.","2/26/2008","OTH","","","Financial",6
+929351,"Lions Gate Entertainment Corp.","5/30/2008","OTH","","","Services",8
+929940,"Aspen Technology Inc.","4/11/2008","OTH"," RR","OTH","Technology",9
+929940,"Aspen Technology Inc.","2/19/2009","OTH","OTH","","Technology",9
+930184,"Valeant Pharmaceuticals International","3/17/2008","RR","OTH"," ER","Healthcare",7
+930245,"All-American Sportpark Inc.","4/14/2008","OTH","","","Services",8
+932372,"Orange 21 Inc.","4/8/2008","OTH","OTH","OTH","Consumer Cyclical",3
+932695,"China Yuchai International Ltd","5/30/2008","ER","OTH","OTH","Capital Goods",2
+932696,"Insight Enterprises Inc.","5/12/2009","OTH"," ER","","Financial",6
+934448,"DG FastChannel Inc.","3/17/2008","OTH","","","Services",8
+934648,"Speedway Motorsports Inc","3/14/2008","OTH","","","Services",8
+934796,"Network CN Inc","10/22/2008","OTH","","","Services",8
+935036,"Aci Worldwide Inc","3/4/2008","RR"," ER","","Technology",9
+936801,"Pacific Harbour Capital Ltd.","10/15/2008","OTH","","","Services",8
+937966,"ASML HOLDINGS","1/26/2009","OTH","","","Technology",9
+941020,"GeneLink, Inc.","6/3/2008","OTH"," ER","","Healthcare",7
+945989,"Astea International Inc.","4/15/2008","RR","","","Technology",9
+946673,"Banner Corp.","3/14/2008","OTH","","","Financial",6
+946673,"Banner Corp.","5/9/2008","ER","","","Financial",6
+1001907,"Spacehab Inc.","2/28/2008","OTH","","","Capital Goods",2
+1004125,"KSW Inc","3/7/2008","ER","","","Capital Goods",2
+1004608,"Pinnacle Data Systems, Inc.","3/31/2008","OTH","","","Technology",9
+1004673,"Elixir Gaming Technologies, Inc.","3/31/2008","OTH","OTH"," ER","Services",8
+1005010,"Arthrocare Corp.","11/18/2009","OTH"," RR"," ER","Healthcare",7
+1005302,"Cytogenix Inc.","4/7/2008","ER","","","Healthcare",7
+1006837,"PRIMUS TELECOMMUNICATIONS GROUP INC","8/11/2008","OTH","","","Services",8
+1009891,"Health & Nutrition Systems International Inc.","5/19/2008","ER","","","Capital Goods",2
+1010470,"Provident Financial Holdings, Inc.","5/15/2008","ER","","","Financial",6
+1011064,"Sunrise Senior Living Inc.","10/16/2008","OTH"," ER","","Healthcare",7
+1011064,"Sunrise Senior Living Inc.","7/31/2008","ER","","","Healthcare",7
+1011064,"Sunrise Senior Living Inc.","3/24/2008","OTH"," RR"," ER","Healthcare",7
+1013462,"Ansys Inc.","2/28/2008","OTH","","","Technology",9
+1013880,"Teletech Holdings Inc.","7/16/2008","ER","OTH","","Technology",9
+1014669,"Sterling Chemicals, Inc.","4/11/2008","RR","OTH","OTH","Basic Materials",1
+1016837,"Blue Square-Israel Ltd.","1/29/2008","OTH","","","Services",8
+1020302,"Internet Infinity, Inc.","7/14/2008","OTH","OTH","","Services",8
+1021422,"Capital Alliance Income Trust","1/10/2008","OTH","","","Services",8
+1022570,"Cardima Inc.","4/15/2008","OTH","","","Healthcare",7
+1028153,"Axion Power International Inc.","5/12/2008","OTH","","","Technology",9
+1036848,"AeroCentury Corp","3/14/2008","RR","","","Services",8
+1037760,"CEPHEID","10/1/2009","OTH"," ER","","Technology",9
+1040570,"GEOEYE, INC.","9/5/2008","OTH"," ER","OTH","Services",8
+1040570,"Orbimage Inc.","4/2/2008","OTH","","","Services",8
+1040570,"GeoEye Inc.","4/2/2009","RR"," ER","OTH","Services",8
+1040593,"Carrizo Oil & Gas Inc.","8/17/2009","OTH"," ER","","Energy",5
+1042610,"TRB Systems International Inc.","1/16/2008","OTH","OTH","","Consumer Cyclical",3
+1042809,"A.C. Moore Arts & Crafts Inc.","3/27/2008","OTH","","","Services",8
+1043894,"Enviro Voraxial Technology, Inc.","1/31/2008","OTH","","","Capital Goods",2
+1044590,"Intermec Inc.","3/3/2008","OTH","","","Capital Goods",2
+1045014,"Gametech International Inc.","1/25/2008","OTH","OTH","","Services",8
+1045742,"LiveDeal Inc","5/13/2008","OTH"," ER","","Services",8
+1045942,"Remote MDX Inc.","6/18/2008","RR"," ER","OTH","Services",8
+1046692,"LJ International Inc.","6/19/2008","RR","OTH","","Consumer Cyclical",3
+1050691,"Dragon International Group Corp.","2/13/2008","ER","OTH","","Basic Materials",1
+1050825,"Steelcase Inc.","1/7/2009","OTH","","","Consumer Cyclical",3
+1050915,"QUANTA SERVICES INC","11/9/2009","OTH","","","Capital Goods",2
+1051488,"INTEGRATED HEALTHCARE HOLDINGS INC","8/22/2008","RR"," ER","","Healthcare",7
+1052257,"Z Trim Holdings, Inc.","8/21/2008","OTH"," ER","","Consumer Non-Cyclical",4
+1052671,"Welwind Energy International Corp.","6/12/2008","ER","","","Technology",9
+1053352,"Heritage Commerce Corp.","2/22/2008","OTH","","","Financial",6
+1055726,"Inovio Biomedical Corp.","3/17/2008","OTH","","","Healthcare",7
+1057698,"MDS Inc.","1/29/2008","OTH","","","Healthcare",7
+1057698,"MDS INC","1/29/2009","OTH","","","Healthcare",7
+1058027,"Steelcloud Inc.","2/12/2008","ER","","","Technology",9
+1060426,"China Aoxing Pharmaceutical Co Inc.","2/19/2008","OTH","","","Healthcare",7
+1060990,"QUICKSILVER RESOURCES INC","6/17/2009","OTH","","","Energy",5
+1066104,"CORPORATE EXECUTIVE BOARD","4/23/2009","ER","OTH","","Services",8
+1068875,"InfoSpace Inc.","11/10/2008","OTH","","","Technology",9
+1069878,"Trex Co Inc.","8/10/2009","OTH","","","Basic Materials",1
+1071157,"Astrata Group Inc.","6/11/2008","OTH","","","Technology",9
+1071371,"BANCOLOMBIA SA","6/29/2009","OTH","OTH","","Financial",6
+1073146,"American International Industries, Inc.","3/18/2008","OTH","","","Consumer Cyclical",3
+1074929,"Maverick Minerals Corp.","4/24/2008","OTH"," ER","OTH","Services",8
+1075531,"Priceline.com Inc.","3/3/2008","OTH","","","Technology",9
+1075773,"Alternative Energy Corp","9/25/2008","ER","OTH","OTH","Basic Materials",1
+1076770,"CDC Corp.","6/30/2008","ER","OTH","","Technology",9
+1077638,"Sense Technologies Inc","7/17/2008","OTH","OTH","","Technology",9
+1078217,"GAMMON GOLD INC.","8/12/2009","OTH"," ER","","Basic Materials",1
+1079028,"Varian Inc.","8/12/2009","OTH","","","Technology",9
+1080634,"Australian Oil & Gas Corp.","3/3/2008","OTH","","","Energy",5
+1083490,"Sunrise Real Estate Group, Inc.","5/16/2008","OTH","OTH","","Services",8
+1083490,"SUNRISE REAL ESTATE GROUP INC","8/19/2008","RR","OTH","","Services",8
+1083643,"Fauquier Bankshares Inc","3/14/2008","OTH","OTH","OTH","Financial",6
+1083712,"Jupitermedia Corporation","4/4/2008","OTH","OTH","OTH","Services",8
+1083743,"Australian Forest Industries","3/28/2008","OTH","","","Basic Materials",1
+1083848,"CAN CAL RESOURCES LTD","9/19/2008","OTH","","","Basic Materials",1
+1084000,"Biophan Technologies Inc.","6/13/2008","OTH","","","Healthcare",7
+1084226,"Searchlight Minerals Corp","4/15/2008","OTH","OTH","OTH","Basic Materials",1
+1084226,"Searchlight Minerals Corp.","7/7/2009","OTH","OTH","OTH","Basic Materials",1
+1084507,"Integrated Media Holdings Inc.","4/15/2008","OTH","OTH","OTH","Technology",9
+1085734,"Blockbuster Inc.","3/6/2008","OTH","","","Services",8
+1085770,"MOVE INC","11/9/2009","ER","","","Services",8
+1087934,"UCN, Inc.","4/1/2008","RR","","","Services",8
+1089511,"Alaska Communications Systems Group Inc.","3/20/2008","OTH"," RR"," ER","Services",8
+1090461,"Global Diversified Industries Inc","10/28/2008","OTH","","","Capital Goods",2
+1090514,"AMERICAN ORIENTAL BIOENGINEERING INC","11/16/2009","ER","OTH","","Healthcare",7
+1090872,"Agilent Technologies Inc.","9/4/2009","OTH","","","Technology",9
+1091171,"Blue Nile Inc.","2/27/2008","OTH","","","Services",8
+1094810,"MutualFirst Financial, Inc.","3/13/2008","OTH","","","Financial",6
+1096339,"Saratoga Resources Inc.","8/14/2008","OTH","","","Energy",5
+1096339,"Saratoga Resources Inc.","5/13/2008","RR"," ER","OTH","Energy",5
+1096481,"Angiotech Pharmaceuticals Inc.","3/31/2008","OTH","OTH","OTH","Healthcare",7
+1096791,"Oilsands Quest Inc.","11/27/2009","ER","","","Energy",5
+1096840,"Sunway Global Inc.","7/28/2008","OTH"," ER","","Healthcare",7
+1096841,"Case Financial Inc.","1/14/2008","ER","","","Basic Materials",1
+1098277,"WEBSENSE INC","10/29/2009","RR","OTH","","Technology",9
+1099509,"Vertical Computer Systems Inc.","4/22/2008","OTH","","","Technology",9
+1102384,"ASAT Holdings Ltd","10/30/2008","OTH","","","Technology",9
+1106644,"TS Electronics Inc.","4/30/2008","OTH"," ER","","Healthcare",7
+1108630,"Communicate Com Inc.","3/31/2008","OTH","","","Technology",9
+1109242,"Hanmi Financial Corp","5/9/2008","ER","","","Financial",6
+1109313,"Teryl Resources Corp.","1/22/2008","ER","OTH","","Services",8
+1110361,"Eroomsystem Technologies Inc","4/30/2008","OTH","OTH","","Technology",9
+1112920,"GLOBALSCAPE INC","8/28/2008","OTH"," ER","OTH","Technology",9
+1113668,"The Princeton Review Inc.","3/17/2008","OTH","","","Services",8
+1114446,"UBS AG","5/21/2009","OTH","OTH","","Financial",6
+1116694,"Capital Growth Systems, Inc","8/15/2008","OTH","","","Technology",9
+1120096,"Sino Clean Energy Inc","4/15/2008","OTH","OTH"," ER","Energy",5
+1121783,"American Spectrum Realty Inc.","3/24/2008","OTH","","","Services",8
+1121901,"Global Earth Energy Inc.","6/18/2008","OTH","","","Basic Materials",1
+1123493,"Mediaready Inc.","5/19/2008","OTH","","","Services",8
+1123870,"CIBT Education Group Inc.","1/2/2008","ER","","","Services",8
+1125376,"Enisgn Group Inc.","3/6/2008","OTH","OTH","","Healthcare",7
+1125920,"SHUTTERFLY INC","10/30/2009","ER","","","Consumer Cyclical",3
+1126703,"Shoshone Silver Mining Co.","2/4/2008","OTH"," RR","","Services",8
+1134203,"TALEO CORP","4/30/2009","RR","","","Technology",9
+1134203,"Taleo Corp.","10/27/2009","ER","","","Services",8
+1137031,"United Fuel & Energy Corp.","4/15/2008","OTH","","","Energy",5
+1137855,"Pacific Gold Corp.","2/15/2008","OTH","","","Basic Materials",1
+1140098,"Advanced Cell Technology Inc.","6/30/2008","ER","OTH","","Healthcare",7
+1140098,"Advanced Cell Technology Inc.","4/18/2008","OTH","","","Healthcare",7
+1141807,"1st Constitution Bancorp","4/15/2008","OTH","OTH"," ER","Financial",6
+1142750,"AMN Healthcare Services Inc.","11/7/2008","OTH","","","Services",8
+1145460,"Inverness Medical Innovations Inc.","4/29/2008","OTH"," ER","","Healthcare",7
+1145761,"Songzai International Holding Group Inc","4/10/2008","OTH","","","Energy",5
+1156388,"Big 5 Sporting Goods Corp.","8/1/2008","OTH","","","Services",8
+1157780,"Opnext Inc.","2/25/2008","OTH","","","Technology",9
+1158419,"Speedemissions Inc.","2/22/2008","OTH","OTH","","Services",8
+1158420,"China Agro Sciences Corp.","1/15/2008","OTH","","","Basic Materials",1
+1160165,"Shengdatech Inc.","5/14/2008","ER","OTH","","Basic Materials",1
+1160846,"BRASIL TELECOM SA","7/13/2009","OTH","","","Services",8
+1160858,"True Religion Apparel Inc.","5/1/2008","ER","OTH","OTH","Consumer Cyclical",3
+1170991,"DCT Industrial Trust Inc.","2/29/2008","OTH","OTH"," ER","Services",8
+1171689,"Asia Global Holdings Corp.","4/14/2008","ER","","","Services",8
+1176337,"Rival Technologies Inc.","4/2/2008","OTH","","","Basic Materials",1
+1178672,"Strateco Resources Inc.","3/31/2008","OTH","","","Services",8
+1183276,"Sky Petroleum Inc.","4/17/2008","RR"," ER","OTH","Energy",5
+1202273,"Golfsmith International Holdings Inc.","3/6/2008","OTH","","","Consumer Cyclical",3
+1204413,"Points International Ltd.","3/31/2008","OTH"," RR","","Technology",9
+1210708,"Hudson Highland Group Inc.","3/6/2008","OTH"," ER","","Services",8
+1224608,"Conseco Inc.","3/28/2008","OTH","OTH","","Financial",6
+1226308,"DTS Inc.","11/10/2008","OTH","","","Consumer Cyclical",3
+1230245,"PIPER JAFFRAY COMPANIES","3/2/2009","ER","","","Financial",6
+1243800,"Rainier Pacific Financial Group Inc","3/12/2008","OTH","","","Financial",6
+1266833,"Amador Gold Corp","4/30/2008","OTH","","","Capital Goods",2
+1268659,"MODIGENE INC.","8/13/2008","OTH","","","Healthcare",7
+1272703,"Hydrogen Engine Center, Inc.","7/23/2008","OTH"," ER","OTH","Capital Goods",2
+1273441,"Gran Tierra Energy, Inc.","5/12/2008","OTH","","","Energy",5
+1277270,"Telanetix Inc.","4/14/2008","OTH","","","Services",8
+1280452,"Monolithic Power Systems Inc.","5/12/2008","OTH","","","Technology",9
+1281922,"Triangle Petroleum Corp.","3/7/2008","OTH","","","Energy",5
+1286597,"Banro Corp.","9/2/2008","OTH","","","Basic Materials",1
+1288750,"Timberline Resources Corp.","1/14/2008","OTH","","","Basic Materials",1
+1289848,"Huron Consulting Group Inc.","8/17/2009","OTH"," ER","","Services",8
+1290903,"eLong, Inc","6/30/2008","OTH","","","Services",8
+1292055,"Symmetry Medical Inc.","4/24/2008","ER","OTH","OTH","Healthcare",7
+1292087,"Lotus Pharmaceuticals Inc.","2/20/2008","OTH","OTH","","Healthcare",7
+1295803,"Aurelio Resource Corp","9/17/2008","ER","OTH","","Basic Materials",1
+1298095,"OmniReliant Holdings, Inc.","9/29/2008","ER","OTH","OTH","Consumer Non-Cyclical",4
+1299139,"OccuLogix, Inc.","7/21/2008","OTH","OTH"," ER","Healthcare",7
+1300524,"Hammonds Industries Inc.","3/18/2008","OTH","","","Consumer Cyclical",3
+1300578,"Innovative Card Technologies, Inc.","6/18/2008","OTH"," ER","","Technology",9
+1301299,"Siberian Energy Group Inc","4/15/2008","OTH","","","Energy",5
+1303180,"Amera Resources Corp.","6/6/2008","OTH","","","Basic Materials",1
+1303936,"Cardero Resource Corp.","1/30/2008","OTH","OTH"," ER","Basic Materials",1
+1304280,"Novelis Inc.","8/12/2008","OTH","OTH","","Basic Materials",1
+1309251,"Immureboost Inc.","5/16/2008","OTH","OTH","","Healthcare",7
+1312623,"Fit For Business International Inc.","1/29/2008","OTH","","","Services",8
+1314102,"Psivida Corp.","6/18/2008","OTH","","","Healthcare",7
+1318820,"4C CONTROLS INC","9/19/2008","RR","OTH","","Capital Goods",2
+1320934,"INTERNATIONAL COAL GROUP, INC.","12/18/2009","OTH","OTH","","Energy",5
+1329394,"Silicon Motion Technology Corporation","5/12/2008","OTH","","","Technology",9
+1334933,"Uranium Energy Corp.","6/9/2008","ER","","","Basic Materials",1
+1335493,"Provision Holding, Inc.","10/14/2008","ER","OTH","","Consumer Cyclical",3
+1336545,"AMERICAN APPAREL, INC","8/13/2009","OTH","OTH","","Consumer Cyclical",3
+1336920,"SAIC, INC.","9/3/2008","OTH","","","Technology",9
+1337298,"Futurefuel Corp","3/31/2008","OTH","","","Healthcare",7
+1337899,"Fortunet Inc.","3/26/2008","OTH","","","Services",8
+1340041,"COMPLETE PRODUCTION SERVICES, INC.","8/7/2009","RR","","","Energy",5
+1340786,"Fuel Systems Solutions Inc.","4/22/2008","OTH","OTH","","Consumer Cyclical",3
+1343557,"Fightersoft Multimedia Corp.","10/15/2008","OTH","","","Services",8
+1350073,"Paw Spa Inc.","3/25/2008","OTH","","","Consumer Non-Cyclical",4
+1353970,"NB Telecom, Inc.","7/23/2008","ER","OTH","","Services",8
+1354942,"NewCardio Inc.","8/22/2008","OTH","OTH","","Healthcare",7
+1359555,"ICO Global Communications (Holdings)","3/28/2008","OTH","","","Services",8
+1363254,"Pegasi Energy Resources Corp.","8/7/2008","OTH","OTH","OTH","Services",8
+1363254,"Pegasi Energy Resources Corp.","4/21/2008","RR","OTH","OTH","Services",8
+1365790,"GLG Partners Inc","4/22/2008","ER","","","Financial",6
+1368308,"Hong Kong Highpower Technology Inc.","6/30/2008","ER","","","Consumer Cyclical",3
+1368519,"North American Energy Partners Inc.","6/23/2008","OTH","","","Energy",5
+1371473,"Znomics, Inc.","7/23/2008","RR","","","Healthcare",7
+1373671,"Isilon Systems, Inc.","4/2/2008","RR","","","Technology",9
+1373761,"DRAYTON HARBOR RESOURCES INC.","8/19/2008","OTH","","","Basic Materials",1
+1375483,"YELLOWCAKE MINING INC.","9/3/2008","ER","","","Basic Materials",1
+1376139,"CVR Energy Inc.","5/8/2008","OTH","","","Energy",5
+1377630,"NATIONAL CINEMEDIA, INC.","11/5/2009","OTH","","","Services",8
+1377720,"Cyberdefender Corp","4/15/2008","OTH","","","Technology",9
+1377789,"Harris Stratex Networks, Inc","9/25/2008","OTH","OTH","OTH","Technology",9
+1378195,"Mogul Energy International Inc","4/15/2008","ER","","","Energy",5
+1384072,"Vanguard Natural Resources, LLC","5/12/2008","OTH","","","Energy",5
+1388133,"SHORETEL INC","11/6/2009","ER","","","Services",8
+1389415,"1st Home Buy and Sell Ltd.","2/28/2008","OTH","","","Technology",9
+1391428,"Thomas Pharmaceuticals Ltd","4/15/2008","OTH","","","Healthcare",7
+1393526,"Aspen Racing Stables","2/15/2008","OTH","","","Services",8
+1394074,"Spectra Energy Partners LP","3/25/2008","OTH","","","Energy",5
+1394159,"Orbitz Worldwide Inc.","8/28/2008","OTH","","","Services",8
+1394220,"Rino International Corp.","6/11/2008","OTH","","","Services",8
+1394220,"RINO International Corp.","8/4/2008","OTH","","","Services",8
+1396009,"VULCAN MATERIALS CO","11/6/2009","OTH","OTH","","Capital Goods",2
+1397346,"Best Energy Services Inc","5/5/2008","OTH","","","Energy",5
+1398453,"XINYUAN REAL ESTATE CO., LTD.","9/29/2009","OTH","","","Capital Goods",2
+1398551,"Yongye International Inc.","10/20/2009","OTH","","","Basic Materials",1
+1398797,"Point.360","9/19/2008","OTH","","","Services",8
+1402857,"Clear Skies Solar Inc","7/22/2008","OTH","","","Capital Goods",2
+1418135,"Dr Pepper Snapple Group Inc.","3/26/2009","OTH","","","Consumer Non-Cyclical",4
+1428156,"Celera Corporation","11/12/2008","OTH","","","Services",8
+1450973,"EFT BIOTECH HOLDINGS INC","10/19/2009","OTH","","","Services",8
